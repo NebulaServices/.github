@@ -1,37 +1,36 @@
-# Welcome To Nebula Services
-Nebula Services is a team of experienced and passionate developers with valued skillsets in cutting-edge cyber security and web development. 
+# Welcome To Nebula 
+Nebula is a team of experienced and passionate developers with valued skillsets in cutting-edge cyber security and web development. 
 In addition to our amazing team, we work with other community experts and organizations to ensure the best experience for our users. 
 
 ##  Projects
 
-**NebulaWEB**: https://nebulaproxy.nebula.bio | [GitHub](https://github.com/NebulaServices/Nebula)
+**NebulaWEB**: https://nebulaproxy.io | [GitHub](https://github.com/NebulaServices/Nebula)
 <br>
 *Description*: Nebula Web is a stunning and sleak web proxy *frontend* with support for hundreds of popular sites.
 <br>
 *Status*: Passing | Flagship. 
-*Uses*: TitaniumNetwork Ultraviolet, NebulaServices Cyclone
 
-**Cyclone**: https://cyclone.nebula.bio | [GitHub](https://github.com/NebulaServices/Cyclone)
+**Dynamic**: [GitHub](https://github.com/NebulaServices/Dynamic)
+<br>
+*Description*: A new generation interception proxy of technology, designed to make the way you interact with the internet effortlessly fast. Built with the latest technologies and fully written in TypeScript, Dynamic brings you a seamless and effortless web browsing experience.
+<br>
+*Status*: In development. 
+
+**Cyclone**: [GitHub](https://github.com/NebulaServices/Cyclone)
 <br>
 *Description*: A semi-interception web proxy with incredible speed. 
 <br>
-*Status*: Archived - no longer maintained
+*Status*: **ARCHIVED** - No longer maintained.
 
-**Osana**: *currently no link available* | No repository available
+**Osana**: [GitHub](https://github.com/NebulaServices/Osana)
 <br>
-*Description*: An interception based web proxy.
+*Description*: An interception based web proxy. **ARCHIVED**
 <br>
-*Status*: Not Passing | Private Alpha. 
+*Status*: **ARCHIVED** - No longer maintained. 
 
-**Iridium**: *currently no link available* | No repository available (yet)
+**Dispenser**: [GitHub](https://nebulaservices.github.io/Dispenser/)
 <br>
-*Description*: Iridium is a brand new sleek proxy site built on the Ultraviolet Web Proxy. 
+*Description*: Easily distribute domains to members of a Discord server!
 <br>
-*Status*: Passing | Private Beta. 
-
-**Dispenser**: https://dispenser.nebula.bio | [GitHub](https://nebulaservices.github.io/Dispenser/)
-<br>
-*Description*: Easily and privately distribute domains to members of a Discord server
-<br>
-*Status*: Passing | Open Source//Free usability
+*Status*: Passing, in development.
 
