@@ -66,13 +66,13 @@ We cannot promise immediate responses! For urgent concerns please contact a staf
 - **Osana: [GitHub](https://github.com/NebulaServices/Osana)**
   - An interception based web proxy.
  
-  ## Affiliated Services
-  Nebula Services is officially affiliated with:
-  - **Titanium Network**
-    - Website: https://titaniumnetwork.org/
-    - GitHub: https://github.com/titaniumnetwork-dev
-    - Discord: https://discord.gg/unblock
-  - **Night Network**
-    - Website: https://night-x.com/
-    - GitHub: https://github.com/Night-N3twork
-    - Discord: https://discord.gg/algebra
+## Affiliated Services
+Nebula Services is officially affiliated with:
+- **Titanium Network**
+  - Website: https://titaniumnetwork.org/
+  - GitHub: https://github.com/titaniumnetwork-dev
+  - Discord: https://discord.gg/unblock
+- **Night Network**
+  - Website: https://night-x.com/
+  - GitHub: https://github.com/Night-N3twork
+  - Discord: https://discord.gg/algebra
