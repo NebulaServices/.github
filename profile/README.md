@@ -22,10 +22,10 @@ Nebula Servies is a group of software developers striving to create FOSS softwar
 
 ## E-Mails
 > [!WARNING]
-We cannot promise immediate responses! For urgent concerns please contact a staff member via our Discord.
-- Legal Concerns: legal@nebulaservices.org
-- General Contact: contact@nebulaservices.org
-- Staff Members:
+**We cannot promise immediate responses! For urgent concerns please contact a staff member via our Discord.**
+- **Legal Concerns**: legal@nebulaservices.org
+- **General Contact**: contact@nebulaservices.org
+- **Staff Members**:
   - hazel@nebulaservices.org (Co-Owner)
   - maddie@nebulaservices.org (Manager)
   - izzy@nebulaservices.org (Manager)
