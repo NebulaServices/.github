@@ -37,6 +37,8 @@ Nebula Servies is a group of software developers striving to create FOSS softwar
 **Projects here are either actively being worked on, or at least, functioning and being maintained.**
 - **Nebula Proxy: https://nebulaservices.org | [GitHub](https://github.com/NebulaServices/Nebula)**
   - Nebula Proxy is a stunning and sleak web proxy *frontend* with support for hundreds of popular sites using web proxy technologies like [Ultraviolet](https://github.com/titaniumnetwork-dev/ultraviolet) and [BareMux](https://github.com/mercuryworkshop/baremux). Nebula Proxy also offers a "Marketplace" where users can create and use custom themes and plugins/UserScripts. Nebula also has an official Japanese translation.
+- **XenOS: https://xen-os.dev | [GitHub](https://github.com/NebulaServices/XenOS)**
+  - XenOS is a highly sophisticated WebOS with a beautiful UI and fully configurable environment.
 - **Dispenser: [GitHub](https://github.com/nebulaservices/dispenser)**
   - Dispenser is a Discord Bot for easily distributing webproxy links to users.
 - **BYOD: [GitHub](https://github.com/NebulaServices/nebula-byod)**
@@ -49,8 +51,6 @@ Nebula Servies is a group of software developers striving to create FOSS softwar
 **Projects here are currently not public and being developed in private until ready for stable reason. We also do not promise all projects here will be released!**
 - **Aomi**
   - Aomi is the next up and coming Nebula service, being your standard web proxy turbo charged into one of the most seamless, polished services you'll ever put into your address bar.
-- **XenOS**
-  - XenOS is a highly sophisticated WebOS with a beautiful UI and fully configurable environment.
 - **Skyhigh**
   - Skyhigh is a next generation interception web proxy utilizing service workers with a focus on speed, site support, and an easily approachable codebase.
 - **Flux**
