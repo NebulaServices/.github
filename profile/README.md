@@ -17,8 +17,9 @@ Nebula Servies is a group of software developers striving to create FOSS softwar
 - **Nebula Proxy demo**: https://nebulaservices.org
 - **Documentation site**: https://docs.nebulaservices.org
 - **Discord server**: https://discord.gg/unblocker
-  - In case we ever loose our vanity URL, use: https://discord.gg/c387AGxvYq
+  - In case we ever lose our vanity URL, use: https://discord.gg/c387AGxvYq
 - **Analytics**: https://dashboard.simpleanalytics.com/nebulaservices.org
+- **XenOS Demo**: https://xen-os.dev
 
 ##  Projects
 ### Actively Maintained
