@@ -20,17 +20,6 @@ Nebula Servies is a group of software developers striving to create FOSS softwar
   - In case we ever loose our vanity URL, use: https://discord.gg/c387AGxvYq
 - **Analytics**: https://dashboard.simpleanalytics.com/nebulaservices.org
 
-## E-Mails
-> [!WARNING]
-**We cannot promise immediate responses! For urgent concerns please contact a staff member via our Discord.**
-- **Legal Concerns**: legal@nebulaservices.org
-- **General Contact**: contact@nebulaservices.org
-- **Staff Members**:
-  - hazel@nebulaservices.org (Co-Owner)
-  - maddie@nebulaservices.org (Manager)
-  - izzy@nebulaservices.org (Manager)
-  - omega@nebulaservices.org (Manager)
-
 ##  Projects
 ### Actively Maintained
 > [!IMPORTANT]
